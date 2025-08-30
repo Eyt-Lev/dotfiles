@@ -1,0 +1,24 @@
+[2025-08-30 21:45:24.985] [info]  App starting...
+[2025-08-30 21:45:24.987] [info]  [AppUpdater] Update channel set to 'stable'
+[2025-08-30 21:45:25.355] [info]  Hardware survey for general system resources through 'vulkan' took 56.94ms
+[2025-08-30 21:45:25.568] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2025-08-30 21:45:25.569] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2025-08-30 21:45:25.569] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.24
+[2025-08-30 21:45:31.119] [info]  [AppUpdater] Received version info response
+[2025-08-30 21:45:31.120] [info]  [AppUpdater] Current version: 0.3.24 (build: 6), new version: 0.3.24 (build: 6)
+[2025-08-30 21:45:31.120] [info]  No update available: 0.3.24 (build: 6) <= 0.3.24 (build: 6)
+[2025-08-30 21:45:31.120] [info]  AppUpdater state changed to idle
+[2025-08-30 21:45:33.489] [error] Tried to get CUDA environment variable overrides for LLM usage, but GPU survey data showed no GPUs!
+[2025-08-30 21:45:53.291] [info]  App starting...
+[2025-08-30 21:45:53.293] [info]  [AppUpdater] Update channel set to 'stable'
+[2025-08-30 21:45:53.360] [info]  Hardware survey for general system resources through 'vulkan' took 64.31ms
+[2025-08-30 21:45:53.416] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2025-08-30 21:45:53.416] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2025-08-30 21:45:53.416] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.24
+[2025-08-30 21:45:53.919] [info]  [AppUpdater] Received version info response
+[2025-08-30 21:45:53.920] [info]  [AppUpdater] Current version: 0.3.24 (build: 6), new version: 0.3.24 (build: 6)
+[2025-08-30 21:45:53.920] [info]  No update available: 0.3.24 (build: 6) <= 0.3.24 (build: 6)
+[2025-08-30 21:45:53.920] [info]  AppUpdater state changed to idle
+[2025-08-30 21:56:02.456] [error] (node:26301) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `lm-studio --trace-deprecation ...` to show where the warning was created)
+[2025-08-30 21:57:10.074] [info]  Opening folder: /home/eyt/.lmstudio/extensions/backends

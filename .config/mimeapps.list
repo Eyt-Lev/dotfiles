@@ -1,0 +1,6 @@
+[Default Applications]
+inode/directory=thunar.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+
+[Added Associations]
+video/x-matroska=vlc.desktop;

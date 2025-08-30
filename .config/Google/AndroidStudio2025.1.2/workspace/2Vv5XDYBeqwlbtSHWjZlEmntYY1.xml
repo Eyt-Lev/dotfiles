@@ -1,0 +1,1521 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Appchi" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DesignSurfaceV2">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/java/com/nosh/appchi/presentation/components/NumberTextField.kt" value="0.4831591796874999" />
+        <entry key="app/src/main/java/com/nosh/appchi/presentation/productivty/langs/StartQuizScreen.kt" value="0.7368115234374998" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3vqqqxh7hzo54" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/StartQuizScreen.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="445">
+                <caret line="310" column="94" selection-start-line="310" selection-start-column="94" selection-end-line="310" selection-end-column="94" />
+                <folding>
+                  <element signature="e#56#2586#0" expanded="true" />
+                  <element signature="e#3526#3561#0" expanded="true" />
+                  <element signature="e#3590#3629#0" expanded="true" />
+                  <element signature="e#3679#3735#0" expanded="true" />
+                  <element signature="e#4693#4712#0" expanded="true" />
+                  <element signature="e#4880#4905#0" expanded="true" />
+                  <element signature="e#5102#5137#0" expanded="true" />
+                  <element signature="e#5285#5310#0" expanded="true" />
+                  <element signature="e#5734#5750#1" expanded="true" />
+                  <element signature="e#5812#5830#1" expanded="true" />
+                  <element signature="e#6294#6319#1" expanded="true" />
+                  <element signature="e#6381#6399#1" expanded="true" />
+                  <element signature="e#7657#7676#1" expanded="true" />
+                  <element signature="e#8325#8354#0" expanded="true" />
+                  <element signature="e#10240#10272#1" expanded="true" />
+                  <element signature="e#13091#13109#1" expanded="true" />
+                  <element signature="e#13972#13985#1" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"StartQuizScreen.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/QuizCreator.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="2046">
+                <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+                <folding>
+                  <element signature="e#56#352#0" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"QuizCreator.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-120,1,10,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,111,98,106,101,99,116,75,111,116,108,105,110,46,115,118,103,18,54,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,111,98,106,101,99,116,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-28,-44,-33,-100,3,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/NumberTextField.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+              <editor-state relative-caret-position="198">
+                <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"NumberTextField.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/Quiz.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="8514">
+                <caret line="263" column="42" selection-start-line="263" selection-start-column="42" selection-end-line="263" selection-end-column="42" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Quiz.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/DefaultScaffold.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="66">
+                <caret line="44" column="65" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DefaultScaffold.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/RetryDialog.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="1551">
+                <caret line="72" column="45" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
+                <folding>
+                  <element signature="e#2188#2225#1" expanded="true" />
+                  <element signature="e#2436#2475#1" expanded="true" />
+                  <element signature="e#3300#3328#1" expanded="true" />
+                  <element signature="e#3502#3529#1" expanded="true" />
+                  <element signature="e#4189#4210#1" expanded="true" />
+                  <element signature="e#4362#4377#1" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"RetryDialog.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Kotlin": {
+      "usageCount": 110,
+      "lastUsed": 1756471524703
+    },
+    "XML": {
+      "usageCount": 2,
+      "lastUsed": 1756459000145
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>type</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/tools/random/settings/EditLists.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/quizScreen/QuizQuestion.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model/langs/QuizTypes.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/LangsViewModel.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/RetryDialog.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/db/langs/LangsDatabase.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model/langs/QuizOptionsConverter.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/res/values-iw/strings.xml&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model/langs/Quiz.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/QuizCreator.kt&quot;,
+    &quot;/mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/StartQuizScreen.kt&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1756459000145" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="110" lastUsage="1756471524703" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/db}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/db}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/db/langs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model/langs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="strings" type="c431d0b8:AndroidResGroupNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Appchi" />
+            <item name="Appchi" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
+                <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.nosh.appchi" />
+                  <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="db" />
+                    <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/db}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db/langs" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="langs" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/db/langs}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db/langs/LangsDao.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/interfaceKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LangsDao" />
+                        <item name="LangsDao" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db/langs/LangsDatabase.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/abstractClassKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LangsDatabase" />
+                        <item name="LangsDatabase" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db/langs/LangsTypeConverter.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LangsTypeConverter.kt" />
+                        <item name="LangsTypeConverter.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db/random" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="random" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/db/random}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/di" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="di" />
+                    <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/di}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="model" />
+                    <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="langs" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model/langs}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/LangsSettings.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LangsSettings" />
+                        <item name="LangsSettings" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/Quiz.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Quiz.kt" />
+                        <item name="Quiz.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/QuizTypes.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/enumKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="QuizTypes" />
+                        <item name="QuizTypes" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/WordsSet.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="WordsSet" />
+                        <item name="WordsSet" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/qr" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="qr" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model/qr}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/random" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="random" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/model/random}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/User.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="User" />
+                      <item name="User" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/UserDefaults.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="UserDefaults" />
+                      <item name="UserDefaults" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/UserSerializer.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="UserSerializer" />
+                      <item name="UserSerializer" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="presentation" />
+                    <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="components" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/components}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/DefaultScaffold.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="DefaultScaffold.kt" />
+                        <item name="DefaultScaffold.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/DropDownMenu.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="DropDownMenu.kt" />
+                        <item name="DropDownMenu.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/ErrorWarningCards.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="ErrorWarningCards.kt" />
+                        <item name="ErrorWarningCards.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/NumberTextField.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="NumberTextField.kt" />
+                        <item name="NumberTextField.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/SettingsItems.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="SettingsItems.kt" />
+                        <item name="SettingsItems.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/SimpleDialogs.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="SimpleDialogs.kt" />
+                        <item name="SimpleDialogs.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/TimePickerDialog.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="TimePickerDialog.kt" />
+                        <item name="TimePickerDialog.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/UrlLink.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="UrlLink.kt" />
+                        <item name="UrlLink.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/mainScreen" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="mainScreen" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/mainScreen}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/navigation" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="navigation" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/navigation}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="productivty.langs" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="finishScreen" />
+                        <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/FinishScreen.kt" />
+                            </map>
+                          </attributes>
+                          <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="FinishScreen.kt" />
+                          <item name="FinishScreen.kt" type="24436e51:KtFileTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/GradeAndFeedback.kt" />
+                            </map>
+                          </attributes>
+                          <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="GradeAndFeedback.kt" />
+                          <item name="GradeAndFeedback.kt" type="24436e51:KtFileTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/PerfectlyKnewWords.kt" />
+                            </map>
+                          </attributes>
+                          <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="PerfectlyKnewWords.kt" />
+                          <item name="PerfectlyKnewWords.kt" type="24436e51:KtFileTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/QuestionsOverview.kt" />
+                            </map>
+                          </attributes>
+                          <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="QuestionsOverview.kt" />
+                          <item name="QuestionsOverview.kt" type="24436e51:KtFileTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/RetryDialog.kt" />
+                            </map>
+                          </attributes>
+                          <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="RetryDialog.kt" />
+                          <item name="RetryDialog.kt" type="24436e51:KtFileTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/quizScreen" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="quizScreen" />
+                        <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/quizScreen}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/AddWordsScreen.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="AddWordsScreen.kt" />
+                        <item name="AddWordsScreen.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/LangsMainScreen.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LangsMainScreen.kt" />
+                        <item name="LangsMainScreen.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/LangsSettingsScreen.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LangsSettingsScreen.kt" />
+                        <item name="LangsSettingsScreen.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/LangsViewModel.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LangsViewModel" />
+                        <item name="LangsViewModel" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/QuizCreator.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="QuizCreator" />
+                        <item name="QuizCreator" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/QuizHistory.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="QuizHistory.kt" />
+                        <item name="QuizHistory.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/StartQuizScreen.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="StartQuizScreen.kt" />
+                        <item name="StartQuizScreen.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/WordsSetPreview.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="WordsSetPreview.kt" />
+                        <item name="WordsSetPreview.kt" type="24436e51:KtFileTreeNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/tools" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="tools" />
+                      <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/presentation/tools}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/repository" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="repository" />
+                    <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/repository}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/ui/theme" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="ui.theme" />
+                    <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/ui/theme}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/util" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="util" />
+                    <item name="dir{file:///mnt/SSD/eyt/Android apps/AppChi3/app/src/main/java/com/nosh/appchi/util}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/AppChi.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="AppChi" />
+                    <item name="AppChi" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/MainActivity.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="MainActivity.kt" />
+                    <item name="MainActivity.kt" type="24436e51:KtFileTreeNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="modules/generatedSourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java (generated)" />
+                <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="modules/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="drawable" />
+                  <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap" />
+                  <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="raw" />
+                  <item name="raw" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="values" />
+                  <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+                  <presentation>
+                    <attributes />
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="strings" />
+                    <item name="strings" type="c431d0b8:AndroidResGroupNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+                        </map>
+                      </attributes>
+                      <data iconPath="fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="strings.xml" />
+                      <item name="strings.xml" type="49fa4d93:AndroidResFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values-iw/strings.xml" />
+                        </map>
+                      </attributes>
+                      <data iconPath="fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="strings.xml" />
+                      <item name="strings.xml" type="49fa4d93:AndroidResFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="colors.xml" />
+                    <item name="colors.xml" type="49fa4d93:AndroidResFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="themes.xml" />
+                    <item name="themes.xml" type="49fa4d93:AndroidResFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="xml" />
+                  <item name="xml" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="modules/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res (generated)" />
+                <item name="res (generated)" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="Logcat">
+            <content>
+              <panel>{'device':{'emulatorDevice':{'serialNumber':'emulator-5554','isOnline':false,'release':'16','apiLevel':{'majorVersion':36,'minorVersion':0},'featureLevel':36,'avdName':'Pixel 9 Pro','avdPath':'/home/eyt/.android/avd/Pixel_9_Pro.avd','type':'HANDHELD'}},'formattingConfig':{'preset':'STANDARD'},'filter':'package:mine level:error ','filterMatchCase':false,'isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50079113" visible="true" weight="0.26074424" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info id="Bookmarks" order="3" sideWeight="0.49920887" side_tool="true" weight="0.26049554" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" weight="0.31959262" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.31959262" />
+      <window_info anchor="bottom" id="Upgrade Assistant" order="7" visible="true" weight="0.33057448" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.25557712" />
+      <window_info anchor="bottom" id="Debug" order="9" visible="true" weight="0.3302619" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.18466806" />
+      <window_info active="true" anchor="right" x="1467" y="43" width="447" height="1017" id="Running Devices" order="4" type="WINDOWED" visible="true" weight="0.43119597" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.43119597" />
+      <unified_weights bottom="0.3302619" left="0.26074424" right="0.43119597" />
+    </layoutV2>
+    <recentWindows>
+      <value>Running Devices</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Bookmarks</value>
+      <value>StudioBot</value>
+      <value>Logcat</value>
+      <value>Upgrade Assistant</value>
+      <value>Device Manager 2</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="308" key="#PSD" timestamp="1756378986620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="252" y="308" key="#PSD/0.0.1920.1080@0.0.1920.1080" timestamp="1756378986620" />
+    <state x="456" y="394" key="AndroidCreateXmlResourceDialog" timestamp="1756460113952">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="456" y="394" key="AndroidCreateXmlResourceDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1756460113952" />
+    <state width="1371" height="221" key="GridCell.Tab.0.bottom" timestamp="1756463088935">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1371" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1756463088935" />
+    <state width="1371" height="221" key="GridCell.Tab.0.center" timestamp="1756463088935">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1371" height="221" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1756463088935" />
+    <state width="1371" height="221" key="GridCell.Tab.0.left" timestamp="1756463088935">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1371" height="221" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1756463088935" />
+    <state width="1371" height="221" key="GridCell.Tab.0.right" timestamp="1756463088935">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1371" height="221" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1756463088935" />
+    <state x="236" y="208" key="SettingsEditor" timestamp="1756451504457">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="236" y="208" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1756451504457" />
+    <state width="628" height="727" key="SwitcherDM" timestamp="1756458630347">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="628" height="727" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1756458630347" />
+    <state x="698" y="279" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1756458565973">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="279" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1756458565973" />
+    <state x="106" y="143" width="1708" height="831" key="lvcs.dialog.size" timestamp="1756457756044">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="106" y="143" width="1708" height="831" key="lvcs.dialog.size/0.0.1920.1080@0.0.1920.1080" timestamp="1756457756044" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/tools/random/settings/EditLists.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="216">
+            <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <folding>
+              <element signature="e#4850#4871#1" expanded="true" />
+              <element signature="e#5412#5435#1" expanded="true" />
+              <element signature="e#5536#5558#1" expanded="true" />
+              <element signature="e#5810#5823#1" expanded="true" />
+              <element signature="e#5994#6007#1" expanded="true" />
+              <element signature="e#7434#7451#1" expanded="true" />
+              <element signature="e#7477#7495#1" expanded="true" />
+              <element signature="e#7880#7898#1" expanded="true" />
+              <element signature="e#8203#8223#1" expanded="true" />
+              <element signature="e#8713#8734#1" expanded="true" />
+              <element signature="e#8956#8971#1" expanded="true" />
+              <element signature="e#9866#9879#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/tools/random/settings/RandomSettingsScreenTemplate.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="524">
+            <caret line="81" column="22" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/tools/random/settings/EditQuickRolls.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="513">
+            <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <folding>
+              <element signature="e#2083#2108#0" expanded="true" />
+              <element signature="e#2129#2154#0" expanded="true" />
+              <element signature="e#2386#2409#1" expanded="true" />
+              <element signature="e#3299#3333#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/tools/random/RandomScreenViewModel.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="524">
+            <caret line="198" column="8" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/repository/LangsRepository.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="-129">
+            <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db/langs/LangsDatabase.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="495">
+            <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/QuizOptionsAdapter.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/QuizOptionsConverter.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/LangsSettings.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="198">
+            <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/db/langs/LangsTypeConverter.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="-624">
+            <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/quizScreen/QuizQuestion.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="214">
+            <caret line="232" column="12" selection-start-line="232" selection-start-column="12" selection-end-line="232" selection-end-column="12" />
+            <folding>
+              <element signature="e#3115#5667#0" />
+              <element signature="e#9975#12946#0" />
+              <element signature="e#13177#13982#0" />
+              <element signature="e#16091#17772#0" />
+              <element signature="e#18122#18222#2" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/QuizTypes.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="352">
+            <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <folding>
+              <element signature="e#301#323#0" expanded="true" />
+              <element signature="e#477#492#0" expanded="true" />
+              <element signature="e#481#498#1" expanded="true" />
+              <element signature="e#564#580#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/LangsViewModel.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="390">
+            <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-iw/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="165" column="29" lean-forward="true" selection-start-line="165" selection-start-column="29" selection-end-line="165" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="303" column="33" lean-forward="true" selection-start-line="303" selection-end-line="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.1/91d8cdd7b4ac42c8c321fdc842795b19ad0d76d9/material3-android-1.3.1-sources.jar!/commonMain/androidx/compose/material3/AlertDialog.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1026">
+            <caret line="94" column="11" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/SimpleDialogs.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="363">
+            <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.7.6/51092bff0f96a90644e7fab642f22f43a5487ef5/ui-android-1.7.6-sources.jar!/androidMain/androidx/compose/ui/window/AndroidDialog.android.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="234">
+            <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/QuizCreator.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="2046">
+            <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+            <folding>
+              <element signature="e#56#352#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/NumberTextField.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+          <editor-state relative-caret-position="198">
+            <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/finishScreen/RetryDialog.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="1551">
+            <caret line="72" column="45" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
+            <folding>
+              <element signature="e#2188#2225#1" expanded="true" />
+              <element signature="e#2436#2475#1" expanded="true" />
+              <element signature="e#3300#3328#1" expanded="true" />
+              <element signature="e#3502#3529#1" expanded="true" />
+              <element signature="e#4189#4210#1" expanded="true" />
+              <element signature="e#4362#4377#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/components/DefaultScaffold.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="66">
+            <caret line="44" column="65" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/presentation/productivty/langs/StartQuizScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="445">
+            <caret line="310" column="94" selection-start-line="310" selection-start-column="94" selection-end-line="310" selection-end-column="94" />
+            <folding>
+              <element signature="e#56#2586#0" expanded="true" />
+              <element signature="e#3526#3561#0" expanded="true" />
+              <element signature="e#3590#3629#0" expanded="true" />
+              <element signature="e#3679#3735#0" expanded="true" />
+              <element signature="e#4693#4712#0" expanded="true" />
+              <element signature="e#4880#4905#0" expanded="true" />
+              <element signature="e#5102#5137#0" expanded="true" />
+              <element signature="e#5285#5310#0" expanded="true" />
+              <element signature="e#5734#5750#1" expanded="true" />
+              <element signature="e#5812#5830#1" expanded="true" />
+              <element signature="e#6294#6319#1" expanded="true" />
+              <element signature="e#6381#6399#1" expanded="true" />
+              <element signature="e#7657#7676#1" expanded="true" />
+              <element signature="e#8325#8354#0" expanded="true" />
+              <element signature="e#10240#10272#1" expanded="true" />
+              <element signature="e#13091#13109#1" expanded="true" />
+              <element signature="e#13972#13985#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nosh/appchi/model/langs/Quiz.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="8514">
+            <caret line="263" column="42" selection-start-line="263" selection-start-column="42" selection-end-line="263" selection-end-column="42" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

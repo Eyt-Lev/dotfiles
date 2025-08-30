@@ -1,0 +1,17 @@
+<application>
+  <component name="GoogleLoginApplicationSettings">
+    <option name="activeUser" value="eyt.lev@gmail.com" />
+    <option name="userEmail2FeaturesStore">
+      <map>
+        <entry key="eyt.lev@gmail.com">
+          <value>
+            <set>
+              <option value="GiAS" />
+              <option value="User Info" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
